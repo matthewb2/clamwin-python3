@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: python-clamav
+Version: 0.99.4
+Author: Gianluigi Tiesi
+Author-email: sherpya@netfarm.it
+License: BSD
+Keywords: python,clamav,antivirus,scanner,virus,libclamav
+License-File: LICENSE.txt

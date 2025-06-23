@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+clamav.py
+setup.py
+python_clamav.egg-info/PKG-INFO
+python_clamav.egg-info/SOURCES.txt
+python_clamav.egg-info/dependency_links.txt
+python_clamav.egg-info/top_level.txt
